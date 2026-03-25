@@ -1,5 +1,45 @@
 # 💫 About Me:
-👋 Hi, I'm **Md Yeakub** — a Data Analyst with 2.5+ years of experience turning raw data into actionable insights.<br><br>🔍 I specialize in **SQL, Python, Power BI, and Tableau**, with hands-on experience building ETL pipelines, automated reporting systems, and interactive dashboards that drive real business decisions.<br><br>📊 I've built dashboards used across **9+ departments**, reduced reporting time by **30%**, and cut incident rates by **25%** through statistical analysis — all while working with tools like **BigQuery, MySQL, Looker Studio, and Odoo ERP**.<br><br>🛠️ **My Stack:**<br>`SQL` · `Python` · `Power BI` · `Tableau` . `Looker Studio` · `MySQL` · `BigQuery` · `Excel` · `ETL` · `DAX` · `Git`<br><br>🎓 B.Sc. in Computer Science & Engineering — Eastern University, Bangladesh.<br><br>📌 Currently working as a Data Analyst at **Jalalabad Metal Limited**, focused on production, sales, and inventory analytics.<br><br>🌐 **Portfolio:** [mdyeakub-py.github.io/portfolio](https://mdyeakub-py.github.io/portfolio/)<br>📬 **Email:** mdyeakub.cse@gmail.com
+👋 Hi, I'm **Md Yeakub** — a Data Analyst with 2.5+ years of experience turning raw data into actionable insights.<br><br>🔍 I specialize in **SQL, Python, Power BI, and Tableau**, with hands-on experience building ETL pipelines, automated reporting systems, and interactive dashboards that drive real business decisions.<br><br>📊 I've built dashboards used across **9+ departments**, reduced reporting time by **30%**, and cut incident rates by **25%** through statistical analysis — all while working with tools like **BigQuery, MySQL, Looker Studio, and Odoo ERP**.<br>
+
+
+<br>🛠️ 
+
+## 💻 My Stack
+
+### 🧠 Languages
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 📊 BI & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud)
+
+### ⚙️ Data Engineering
+![ETL](https://img.shields.io/badge/ETL-Process-blue?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-orange?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-green?style=for-the-badge)
+
+### 🛠️ Other Tools
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Google Sheets](https://img.shields.io/badge/Sheets-34A853?style=for-the-badge&logo=googlesheets)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![DAX](https://img.shields.io/badge/DAX-PowerBI-yellow?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge)
+
+
+<br>
+
+
+
+
+
+<br>🎓 B.Sc. in Computer Science & Engineering — Eastern University, Bangladesh.<br><br>📌 Currently working as a Data Analyst at **Jalalabad Metal Limited**, focused on production, sales, and inventory analytics.<br><br>🌐 **Portfolio:** [mdyeakub-py.github.io/portfolio](https://mdyeakub-py.github.io/portfolio/)<br>📬 **Email:** mdyeakub.cse@gmail.com
 
 
 ## 🌐 Socials:
@@ -24,4 +64,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MdYeakub-py&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
