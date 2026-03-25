@@ -113,7 +113,7 @@ Excel (Advanced) • Google Sheets • Git • Jupyter Notebook • DAX • Powe
 
 ## 🎓 Education
 
-B.Sc. in Computer Science & Engineering
+B.Sc. in Computer Science & Engineering at
 Eastern University, Bangladesh
 
 ---
