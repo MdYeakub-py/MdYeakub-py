@@ -5,32 +5,34 @@
 <br>🛠️ 
 
 ## 💻 My Stack
+## 🚀 Core Expertise
+Data Analysis • Business Intelligence • Data Engineering • Dashboard Development • ETL Pipelines
 
 ### 🧠 Languages
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- SQL
+- Python
 
 ### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge)
+- Power BI
+- Tableau
+- Looker Studio
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud)
+- MySQL
+- Google BigQuery
 
 ### ⚙️ Data Engineering
-![ETL](https://img.shields.io/badge/ETL-Process-blue?style=for-the-badge)
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-orange?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-green?style=for-the-badge)
+- ETL
+- Data Cleaning
+- Data Modeling
 
 ### 🛠️ Other Tools
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![Google Sheets](https://img.shields.io/badge/Sheets-34A853?style=for-the-badge&logo=googlesheets)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![DAX](https://img.shields.io/badge/DAX-PowerBI-yellow?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge)
+- Excel (Advanced)
+- Google Sheets
+- Git
+- Jupyter Notebook
+- DAX
+- Power Query
 
 
 <br>
