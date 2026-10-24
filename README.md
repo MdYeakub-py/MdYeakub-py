@@ -1,163 +1,195 @@
-# 👋 Md Yeakub | Data Analyst → Data Engineer
+# 👋 Hi, I'm Md Yeakub
 
-### Turning Data into Scalable Insights & Business Impact
+### Data Analyst → Data Engineer | Microsoft Certified | Power BI • SQL • Python • Microsoft Fabric
 
----
+I’m a **Data Analyst & aspiring Data Engineer** with **3+ years of experience** building business intelligence solutions, automating reporting workflows, and developing scalable data pipelines.
 
-## 💫 About Me
+Currently working at **Save the Children**, I build enterprise Power BI dashboards and data solutions that help global stakeholders make informed decisions. My experience spans data analytics, ETL/ELT automation, SQL optimization, data modeling, and cloud-based analytics.
 
-I’m **Md Yeakub**, a Data Analyst with **2.5+ years of experience** transforming complex data into actionable business insights and scalable data solutions.
+I’m passionate about transforming raw data into reliable, scalable data products and continuously improving my data engineering skills.
 
-I specialize in **SQL, Python, Power BI, and Tableau**, with hands-on experience building **ETL pipelines, automated reporting systems, and interactive dashboards** that drive real business decisions.
-
-I’ve delivered data solutions across multiple business units using tools like **BigQuery, MySQL, Looker Studio, and Odoo ERP**.
-
----
-
-## 🚀 Core Expertise
-
-Data Analysis • Business Intelligence • Data Engineering • ETL Pipelines • Data Modeling • Dashboard Development • Data Warehousing
-
----
-
-## 📈 Key Achievements
-
-* 📊 Built dashboards used across **9+ departments**
-* ⏱️ Reduced reporting time by **30%**
-* 📉 Reduced incident rates by **25%**
-* ⚙️ Automated reporting workflows using ETL pipelines
+- 🔭 **Current Role:** Data Analyst at Save the Children
+- ⚙️ **Core Focus:** Data Engineering, ETL/ELT Pipelines, Analytics Engineering
+- 📊 **BI & Analytics:** Power BI, DAX, Power Query, Data Modeling
+- ☁️ **Data Platform:** Microsoft Fabric, Microsoft Azure, SQL Server
+- 🎓 **Certifications:** DP-700, DP-600, PL-300
+- 🌍 **Portfolio:** [Explore My Portfolio](https://mdyeakub-py.github.io/portfolio/)
+- 💼 **LinkedIn:** [Connect With Me](https://linkedin.com/in/mdyeakub35)
+- 📧 **Email:** mdyeakub.cse@gmail.com
 
 ---
 
-## 💼 Experience
+## 🚀 Professional Highlights
 
-**Data Analyst — Jalalabad Metal Limited**
-
-* Analyzed production, sales, and inventory data for business insights
-* Built interactive dashboards for decision-making
-* Automated reporting pipelines to improve efficiency
-* Collaborated with cross-functional teams to deliver data-driven solutions
-
----
-
-## 💻 My Stack
-
-### 🧠 Languages
-
-SQL • Python
-
-### 📊 BI & Visualization
-
-Power BI • Tableau • Looker Studio
-
-### 🗄️ Databases
-
-MySQL • Google BigQuery
-
-### ⚙️ Data Engineering
-
-ETL • Data Cleaning • Data Modeling
-
-### 🛠️ Other Tools
-
-Excel (Advanced) • Google Sheets • Git • Jupyter Notebook • DAX • Power Query
+- 📈 Developed **5+ enterprise Power BI dashboards** for global stakeholders and operational teams.
+- ⚡ Improved reporting efficiency by **70%** through workflow automation, SQL optimization, and semantic model improvements.
+- ⏱️ Saved **10+ hours per week** by automating daily KPI reporting workflows.
+- 📉 Contributed to a **25% reduction in incident rates** through analytics and statistical analysis.
+- 🤝 Collaborated with cross-functional teams to translate business requirements into reliable, decision-ready insights.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills
 
-### 📊 Production Dashboard (Power BI)
+### 💻 Programming & Query Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-* Built an end-to-end dashboard tracking production, sales, and inventory
-* Reduced reporting time by 30%
-* Used: Power BI, DAX, SQL
-* 🔗 [View Project](#)
+### 📊 Business Intelligence & Analytics
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
+### ☁️ Cloud & Data Engineering
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 
-### ⚙️ ETL Pipeline Automation
+### 🗄️ Databases & Data Management
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-* Designed automated data pipeline for daily reporting
-* Reduced manual workload and improved efficiency
-* Used: Python, MySQL, ETL
-* 🔗 [View Project](#)
+### 🔧 Tools & Technologies
 
----
-
-### 📈 Sales Analysis Dashboard
-
-* Identified key revenue trends and performance gaps
-* Helped reduce incident rate by 25%
-* Used: Tableau / Power BI
-* 🔗 [View Project](#)
-
----
-
-## ⚡ What I Do With My Stack
-
-* **SQL** → Data extraction, transformation, and optimization
-* **Python** → ETL pipelines, automation, and data processing
-* **Power BI** → Business dashboards and KPI tracking
-* **BigQuery** → Large-scale data analysis
+- **Data Engineering:** ETL/ELT, Data Pipelines, Data Cleaning, Data Transformation
+- **Data Modeling:** Dimensional Modeling, Star Schema, Data Warehousing
+- **Power BI:** DAX, Power Query, Semantic Models, Dashboard Development
+- **Development Tools:** Git, GitHub, VS Code, Jupyter Notebook
+- **Data Processing:** Python, pandas, PySpark, SQL
 
 ---
 
-## 🌱 Currently Learning
+## 📂 Featured Projects
 
-* Advanced Data Engineering
-* GCP / BigQuery Optimization
-* Apache Spark
-* System Design for Data Platforms
+### 1. 🏗️ End-to-End Retail Data Engineering Pipeline — Microsoft Fabric
+
+Designed a Medallion architecture pipeline to organize and transform data into analytics-ready datasets.
+
+**Key components:**
+- Bronze, Silver, and Gold data layers
+- PySpark-based data transformation
+- Lakehouse and Warehouse integration
+- Data pipelines and dimensional modeling
+- Power BI integration using Direct Lake
+
+**Tech Stack:** Microsoft Fabric, PySpark, Python, SQL, Lakehouse, Warehouse, Power BI
+
+🔗 **[View Project](#)**
+
+### 2. 📦 Amazon Fulfilment & Revenue Analytics
+
+Built an end-to-end ETL solution and interactive Power BI dashboards to analyze sales performance, fulfilment efficiency, and revenue trends.
+
+**Key components:**
+- Data extraction and transformation using Python
+- MySQL-based data storage
+- Data preparation using pandas
+- KPI development and interactive reporting
+
+**Tech Stack:** Python, pandas, ETL, MySQL, Power BI, DAX, Power Query
+
+🔗 **[View Project](#)**
+
+### 3. 📊 Adventure Works Internet Sales Analytics
+
+Developed a Power BI dashboard to analyze internet sales performance, identify sales trends, and explore customer segments.
+
+**Key components:**
+- Sales performance analysis
+- Customer segmentation
+- DAX measures and calculated metrics
+- Star schema data modeling
+- Interactive Power BI reporting
+
+**Tech Stack:** Power BI, DAX, Power Query, Excel
+
+🔗 **[View Project](#)**
+
+---
+
+## 🏅 Microsoft Certifications
+
+<p>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/">
+    <img src="https://img.shields.io/badge/Microsoft_Certified-Fabric_Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified Fabric Data Engineer Associate"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/">
+    <img src="https://img.shields.io/badge/Microsoft_Certified-Fabric_Analytics_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified Fabric Analytics Engineer Associate"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/">
+    <img src="https://img.shields.io/badge/Microsoft_Certified-Power_BI_Data_Analyst_Associate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Microsoft Certified Power BI Data Analyst Associate"/>
+  </a>
+</p>
+
+---
+
+## 🌱 Currently Focusing On
+
+- Building scalable ETL/ELT pipelines with Microsoft Fabric
+- Strengthening PySpark and distributed data processing skills
+- Improving SQL performance and data modeling techniques
+- Designing reliable, maintainable data platforms
+- Advancing cloud data engineering and system design knowledge
 
 ---
 
 ## 🎓 Education
 
-B.Sc. in Computer Science & Engineering at
+**Bachelor of Science in Computer Science and Engineering**  
 Eastern University, Bangladesh
 
 ---
 
-## 🌐 Portfolio & Contact
+## 📊 GitHub Statistics
 
-* 🌐 Portfolio: https://mdyeakub-py.github.io/portfolio/
-* 📧 Email: [mdyeakub.cse@gmail.com](mailto:mdyeakub.cse@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MdYeakub-py&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdYeakub-py&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
+</p>
 
----
-
-## 🌐 Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/mdyeakub00)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/mdyeakub35)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium\&logoColor=white)](https://medium.com/@mdyeakub.cse)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/yeakub35)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=MdYeakub-py\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=MdYeakub-py\&theme=dark\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdYeakub-py\&theme=dark\&hide_border=false\&layout=compact)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MdYeakub-py&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=MdYeakub-py\&theme=highcontrast\&no-frame=false\&no-bg=false\&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MdYeakub-py&theme=tokyonight&no-frame=true&margin-w=6" alt="GitHub trophies"/>
+</p>
 
 ---
 
-## ✍️ Random Dev Quote
+## 🤝 Let's Connect
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+I'm always interested in connecting with data professionals, learning from the community, collaborating on data projects, and exploring opportunities in **Data Engineering, Analytics Engineering, and Business Intelligence**.
+
+<p align="left">
+  <a href="https://linkedin.com/in/mdyeakub35">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://mdyeakub-py.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:mdyeakub.cse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/MdYeakub-py">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=MdYeakub-py\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
-
----
-
-![](https://visitcount.itsvg.in/api?id=MdYeakub-py\&icon=0\&color=0)
+<p align="center">
+  <i>"Turning data into insights, and insights into impact — one pipeline at a time."</i>
+</p>
